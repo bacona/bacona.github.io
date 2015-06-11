@@ -21,12 +21,12 @@
 
 .pl-c1      /* constant, markup.raw, meta.diff.header, meta.module-reference, meta.property-name, support, support.constant, support.variable, variable.other.constant */,
 .pl-s .pl-v /* string variable */ {
-  color: #0099cd;
+  color: #9900CC;
 }
 
 .pl-e  /* entity */,
 .pl-en /* entity.name */ {
-  color: #9774cb;
+  color: #83FF83;
 }
 
 .pl-s .pl-s1 /* string source */,
