@@ -31,11 +31,11 @@
 
 .pl-s .pl-s1 /* string source */,
 .pl-smi      /* storage.modifier.import, storage.modifier.package, storage.type.java, variable.other, variable.parameter.function */ {
-  color: #ddd;
+  color: #9900CC;
 }
 
 .pl-ent /* entity.name.tag */ {
-  color: #7bcc72;
+  color: #FF00CC;
 }
 
 .pl-k /* keyword, storage, storage.type */ {
